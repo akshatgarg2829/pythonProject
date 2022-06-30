@@ -1,0 +1,7 @@
+obj = open("message.txt")
+# content = obj.read()
+# line = obj.readline()
+lines = obj.readlines()
+# print(content)
+# print(line)
+print(lines)
